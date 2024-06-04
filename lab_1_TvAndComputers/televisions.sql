@@ -39,3 +39,7 @@ SELECT * FROM TV;
 
 -- Alter the tv_models, removing the resolution column
 --  and add vertical_resolution and horizontal_resolution columns
+
+
+
+ 
